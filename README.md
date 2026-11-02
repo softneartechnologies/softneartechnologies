@@ -3,7 +3,7 @@
 <a href="https://softnear.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://softnear.com/logo-light.svg">
-    <img src="https://softnear.com/logo.svg" alt="Softnear Technologies" height="70">
+    <img src="https://softnear.com/logo-light.svg" alt="Softnear Technologies" height="70">
   </picture>
 </a>
 
