@@ -103,7 +103,7 @@ We're always looking for curious builders who love solving real problems with te
 
 **Guaranteed response within one business day.**
 
-📧 [info@softnear.com](mailto:info@softnear.com) &nbsp;·&nbsp; 📞 [+91 74008 58050](tel:+917400858050) &nbsp;·&nbsp; 💬 [WhatsApp](https://wa.me/917400858050)
+📧 [projectdesk@softnear.com](mailto:projectdesk@softnear.com) &nbsp;·&nbsp; 📞 [+91 74008 58050](tel:+917400858050) &nbsp;·&nbsp; 💬 [WhatsApp](https://wa.me/917400858050)
 
 [![Get Started](https://img.shields.io/badge/Get_Started_Today-→-007BFF?style=for-the-badge)](https://softnear.com/contact)
 
