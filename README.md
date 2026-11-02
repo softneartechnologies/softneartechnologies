@@ -80,13 +80,6 @@ Scale your team with vetted engineers on flexible monthly contracts — strict N
 [![Hire Node](https://img.shields.io/badge/Hire-Node.js_Developers-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://softnear.com/hire/node-developers)
 [![Hire Python](https://img.shields.io/badge/Hire-Python_Developers-3776AB?style=flat-square&logo=python&logoColor=white)](https://softnear.com/hire/python-developers)
 
----
-
-## 📚 From Our Blog
-
-- [How AI Automation is Transforming Modern Enterprise Software](https://softnear.com/blogs/ai-automation-transforming-modern-enterprise-software)
-- [Building Scalable Full-Stack Applications with Next.js and Microservices](https://softnear.com/blogs/building-scalable-full-stack-applications-nextjs-microservices)
-- [Why Vetted Dedicated Development Teams Beat Traditional Outsourcing](https://softnear.com/blogs/why-vetted-dedicated-development-teams-beat-outsourcing)
 
 ---
 
